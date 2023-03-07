@@ -8,6 +8,8 @@ line in branch1
 
 Вот этот текст я добавил через VS Code
 
+Вот этот текст я добавил через GitHub
+
 line in main
 
 Этот текст добавлен в branch2
