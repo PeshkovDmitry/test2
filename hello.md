@@ -7,3 +7,5 @@ This is new test line
 line in branch1
 
 line in main
+
+Этот текст добавлен в branch2
